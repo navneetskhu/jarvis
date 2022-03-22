@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: jarvis
+netty:
+  default:
+    allocator:
+      max-order: 3
